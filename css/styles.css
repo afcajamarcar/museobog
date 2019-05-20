@@ -1,0 +1,28 @@
+img {
+    width: 65%;
+    height: 65%;
+}
+video {
+    width: 100%;
+    height: 80%;
+}
+.center-all {
+ margin: auto;
+}
+body, html {
+    height: 100%;
+    display: grid;
+}
+.p2 {
+    width: 85%;
+    height: 85%;
+}
+.pull-down {
+    margin-top: 8%;
+}
+.pull-down-inner {
+    margin-top: 15%;
+}
+.pull-up-inner {
+    margin-bottom: 15%;
+}
